@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @KillaWINS
-- 👀 I’m interested in everything lmao
-- 🌱 I’m currently learning how to use GitHub with @Platzi... I'm in love with Freddy Vega and Christian whatevah
-- 💞️ I’m looking for my own path
-- 📫 Why would you want to reach me? Anyways, I'm @kfmch in the blue bird 
+- 👋 Hi, I’m @KillaWINS 
 - SEEEYA!
 
 <!---
